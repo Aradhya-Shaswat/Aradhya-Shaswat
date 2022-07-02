@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Arsh_DEV
-- 👀 I’m interested in Metaverse
-- 🌱 I’m currently learning C#
-- 📫 Email : reddye1120@gmail.com
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/100127769/176992330-f9a38b0e-9d0d-495d-b191-a5e157a723eb.png">
 
-<!---
-Aradhya-Shaswat/Aradhya-Shaswat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- **👋 Hi, I’m Arsh**
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning C++
+- 🪐 Making my School's Website
+- 🕶️ A Teen (13+)
+
+**I am From India 🇮🇳**
+
+**>>** Made over 10 Big Projects.
+
+
