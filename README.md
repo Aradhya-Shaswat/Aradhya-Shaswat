@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Backend+Developer++++++++++)](https://git.io/typing-svg)
 
 <h2 align="center">Hi there 👋, Welcome to my Portfolio!</h2>
 <p>   </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Backend+Developer++++++++++)](https://git.io/typing-svg)
 
 - **👋 Hi, I’m Arsh**
 - 👀 I’m interested in Machine Learning
