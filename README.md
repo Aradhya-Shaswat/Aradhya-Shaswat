@@ -1,5 +1,5 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Aradhya-Shaswat&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhya-Shaswat)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhya-Shaswat&layout=compact)
 
 - **👋 Hi, I’m Arsh**
 - 👀 I’m interested in Machine Learning
