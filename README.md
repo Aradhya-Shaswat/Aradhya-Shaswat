@@ -1,3 +1,5 @@
+<h2 align="center">Hi there 👋, I'm Arsh!</h2>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Backend+Developer++++++++++)](https://git.io/typing-svg)
 
 - **👋 Hi, I’m Arsh**
