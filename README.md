@@ -31,6 +31,5 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 
 
-![](https://visitcount.itsvg.in/api?id=Aradhya-Shaswat)
-
+![](https://visitcount.itsvg.in/api?id=aradhya-shaswat)
 
