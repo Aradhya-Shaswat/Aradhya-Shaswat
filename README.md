@@ -31,5 +31,5 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 
 
-![](https://komarev.com/ghpvc/?username=aradhya-shaswat)
+![](https://komarev.com/ghpvc/?username=shinokada)
 
