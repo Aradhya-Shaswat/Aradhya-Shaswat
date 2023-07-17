@@ -7,7 +7,6 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning C++
 - 🪐 Making my School's Website
-- 🕶️ A Teen (13+)
 
 **I am From India 🇮🇳**
 
