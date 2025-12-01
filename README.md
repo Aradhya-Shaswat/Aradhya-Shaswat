@@ -1,12 +1,6 @@
 
-<h2 align="center">Hi there 👋, Welcome to my Portfolio!</h2>
+<h2>Hi there 👋</h2>
 <p>   </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Backend+Developer++++++++++)](https://git.io/typing-svg)
-
-hmm...
-
-## Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Aradhya-Shaswat&theme=tokyonight&show_icons=true&count_private=true)
 
