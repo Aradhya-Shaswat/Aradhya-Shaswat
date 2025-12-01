@@ -2,9 +2,6 @@
 <h2>Hi there 👋</h2>
 <p>   </p>
 
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhya-Shaswat&layout=compact)
-
 ## Languages and Tools
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
